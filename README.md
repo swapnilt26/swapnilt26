@@ -5,15 +5,13 @@
 
 <!-- <h3 align="left">A passionate about coding and optimization from Barcelona 🌊</h3> -->
 
-- 👤 My name is **Miquel Debon Villagrasa** 
+- 👤 My name is **Swapnil Tyagi** 
 
-- 🌱 I’m currently learning **JAVA Backend development** at Barcelona Activa 
+- 🔭 I’m currently working on developing backend projects and DevOPS activities and actively seeking job opportunities
 
-- 🔭 I’m currently working on developing backend projects and actively seeking job opportunities
+- ✉️ How to reach me **swapniltyagi26@gmail.com**
 
-- ✉️ How to reach me **debon.miquel@gmail.com**
-
-- <p> <a href="https://linkedin.com/in/miquel-debón-villagrasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/miquel-debón-villagrasa" height="20" width="30" /></a> Connect with me</p>
+- <p> <a href="https://linkedin.com/in/swapnil-tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/miquel-debón-villagrasa" height="20" width="30" /></a> Connect with me</p>
 
 <br>
 
