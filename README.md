@@ -23,6 +23,6 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-MiquelDebon&color=green)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilt26&layout=compact&show_icons=true&theme=dark)](https://github.com/MiquelDebon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiquelDebon&layout=compact&show_icons=true&theme=dark)](https://github.com/MiquelDebon/github-readme-stats)
 
 
