@@ -1,9 +1,15 @@
+<div align="center">
+<img align="center" height="300" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
+</div>
 
-<h3 align="center"> i read, code and drink too much coffee ☕️ </h3>
-<br>
-<h1 align="center">hello world ... </h1>
+<h3 align="center"> I code and drink too much coffee <img width= "40" height= "30" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXN0dHJtNmx0YXIzbGFjeWhhZHp2OXhobXNzbDFxZ3N4aDYzNGt6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ohFe5JEvS5FbSdhh7k/giphy.gif" </h3>
+  
+<h2 align="center">Hello World...</h2>
 
-<!-- <h3 align="left">A passionate about coding and optimization from Barcelona 🌊</h3> -->
+
+<!----------------------------------------PERSONAL INFO------------------------------------------
+--------------------------------------------------------------------------------------------- -->
+
 
 - 👤 My name is **Swapnil Tyagi** 
 
@@ -13,16 +19,44 @@
 
 - <p> <a href="https://linkedin.com/in/swapnil-tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/miquel-debón-villagrasa" height="20" width="30" /></a> Connect with me</p>
 
-<br>
+<!----------------------------------------PERSONAL INFO------------------------------------------
+--------------------------------------------------------------------------------------------- -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/](https://pbs.twimg.com/media/Ed2pr6PXYAE8KPZ.png" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/media/Ed2pr6PXYAE8KPZ.png"  width="35" height="35"/> </a> </p>
+<div id="toc" align="center">
+  <ul style="list-style: none">
+    <summary>
+      <h1> My Technical Skills</h1>
+    </summary>
+  </ul>
+</div>
 
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mongodb,idea,git" />
+  </a>
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,bash,prometheus,github" />
+  </a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=swapnilt26&color=green&base=650)
 
-![Top Langs](https://github-readme-stats-nine-gamma-36.vercel.app/api/top-langs/?username=swapnilt26&layout=compact&count_private=true)
+# Github Stats
 
+<!-- ---------------------------------------STATS------------------------------------------
+--------------------------------------------------------------------------------------------- -->
 
+<p><img align="center" src="https://github-readme-stats-nine-gamma-36.vercel.app/api/top-langs?username=swapnilt26&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3&count_private=true" /></p>
+
+<!-- ---------------------------------------STATS------------------------------------------
+--------------------------------------------------------------------------------------------- -->
+
+#
+
+<p align="center">
+   <a>
+   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
+   <img align="center" src="https://streak-stats.demolab.com?user=swapnilt26&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
+   </a>
+</p>
