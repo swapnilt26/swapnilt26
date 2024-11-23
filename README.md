@@ -23,6 +23,7 @@
 
 ![](https://komarev.com/ghpvc/?username=swapnilt26&color=green&base=650)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnilt26)](https://github.com/swapnilt26/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats-git-master-swapnilt26s-projects.vercel.app/api/top-langs/?username=swapnilt26&layout=compact&count_private=true)
 
