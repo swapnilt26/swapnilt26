@@ -24,6 +24,6 @@
 ![](https://komarev.com/ghpvc/?username=swapnilt26&color=green&base=650)
 
 
-![Top Langs](https://github-readme-stats-opal-beta-75.vercel.app/api/top-langs/?username=swapnilt26&layout=compact&count_private=true)
+![Top Langs](https://github-readme-stats-git-master-swapnilt26s-projects.vercel.app/api/top-langs/?username=swapnilt26&layout=compact&count_private=true)
 
 
