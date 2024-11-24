@@ -4,7 +4,7 @@
 
 <h3 align="center"> I code and drink too much coffee <img width= "40" height= "30" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXN0dHJtNmx0YXIzbGFjeWhhZHp2OXhobXNzbDFxZ3N4aDYzNGt6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ohFe5JEvS5FbSdhh7k/giphy.gif" </h3>
   
-<h2 align="center">Hello World...</h2>
+<h2 align="center"> &lt Hello World... > </h2>
 
 
 <!----------------------------------------PERSONAL INFO------------------------------------------
