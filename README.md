@@ -47,7 +47,10 @@
 <!-- ---------------------------------------STATS------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 <p>
-  <img src="https://github-readme-stats-nine-gamma-36.vercel.app/api/top-langs?username=swapnilt26&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3&count_private=true" />
+  <img align="left" src="https://github-readme-stats-nine-gamma-36.vercel.app/api/top-langs?username=swapnilt26&show_icons=true&locale=en&layout=compact&title_color=c0d6e4&bg_color=0,000000,130F40&text_color=D3D3D3&count_private=true" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=swapnilt26&show_icons=true&locale=en&title_color=fbf6f2&icon_color=f08080&text_color=D3D3D3&bg_color=0,000000,F84219" height="170" />
 </p>
 <!-- ---------------------------------------STATS------------------------------------------
 --------------------------------------------------------------------------------------------- -->
