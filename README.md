@@ -66,5 +66,4 @@
 </p>
 
 
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif" width="1920" height="10"/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif" width="1920" height="1"/>
